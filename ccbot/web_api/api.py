@@ -30,4 +30,4 @@ class BotSession(Session):
         return BotResponse(self._api.get(self._url.compose()))
 
     def post(self, data: Dict[Any, Any]) -> Response:
-        return BotResponse(self._api.post(self._url.compose(), data=data))
+        return BotResponse(self._api.post(self._url.compose(), json=data))

@@ -1,6 +1,12 @@
 # Crypto currency telegram bot powered by a webhook
 Basic telegram bot powered by a webhook that helps you get latest USD exchange rates for all types of crypto currencies.
 
+## Run a coin bot
+Run script from the root directory of the project:
+```bash
+~ python cnbot.py
+```
+
 ## Contributing
 
 ### Setup
