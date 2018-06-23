@@ -7,6 +7,9 @@ Run script from the root directory of the project:
 ~ python cnbot.py
 ```
 
+## Demo
+![Screenshot](ccbot/demo/coinbot.png)
+
 ## Contributing
 
 ### Setup
