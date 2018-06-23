@@ -1,5 +1,6 @@
 # Crypto currency telegram bot powered by a webhook
 Basic telegram bot powered by a webhook that helps you get latest USD exchange rates for all types of crypto currencies.
+Bot is called `FoxCoinBot`, search for it in the telegram to allow it help to get your desired coin. Enjoy it!
 
 ## Run a coin bot
 Run script from the root directory of the project:
