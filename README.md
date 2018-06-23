@@ -12,3 +12,6 @@ Basic telegram bot powered by a webhook that helps you get latest USD exchange r
   ```
 - `python3.6` is required to run the code
 - run `pip install -r requirements.txt` to install all required python packages
+
+### Run unittests
+Run `pytest -v` from shell in the root directory of the repository.
