@@ -1,5 +1,6 @@
-from ccbot.server import server
+from ccbot.server import SERVER, Server
 
+_server: Server = SERVER
 
 if __name__ == '__main__':
-    server.run()
+    _server.run()
