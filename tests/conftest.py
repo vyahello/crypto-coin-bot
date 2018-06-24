@@ -7,7 +7,7 @@ from bin.crypto.rates import CoinStock, CoinMarketCup
 _coins: Tuple[str, ...] = ('bitcoin', 'litecoin', 'zcash', 'ethereum', 'ripple')
 
 
-@pytest.fixture( params=_coins)
+@pytest.fixture(params=_coins)
 def coin_market_cup(request: SubRequest) -> CoinStock:
     return CoinMarketCup(request.param)
 
