@@ -1,6 +1,6 @@
 from typing import Callable
 import pytest
-from ccbot.crypto.coins import Coin
+from bin.crypto.coins import Coin
 
 
 @pytest.mark.parametrize('coin, coin_id, name, label', [

@@ -1,4 +1,4 @@
-from ccbot.crypto.rates import CoinStock
+from bin.crypto.rates import CoinStock
 
 _records: int = 15
 

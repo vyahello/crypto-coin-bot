@@ -1,7 +1,7 @@
-from ccbot.bot.messages import Answer, BotAnswer, BotMessage
-from ccbot.bot.text import Text, InputText
-from ccbot.crypto.coins import Coin, CryptoCoin
-from ccbot.server import SERVER, METHODS, Request, ServerRequest, POST, WELCOME_MESSAGE, Server
+from bin.bot.messages import Answer, BotAnswer, BotMessage
+from bin.bot.text import Text, InputText
+from bin.crypto.coins import Coin, CryptoCoin
+from bin.server import SERVER, METHODS, Request, ServerRequest, POST, WELCOME_MESSAGE, Server
 
 _server: Server = SERVER
 

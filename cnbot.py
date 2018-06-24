@@ -1,4 +1,4 @@
-from ccbot.server import SERVER, Server
+from bin.server import SERVER, Server
 
 _server: Server = SERVER
 

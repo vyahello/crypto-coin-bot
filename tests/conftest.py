@@ -1,8 +1,8 @@
 from typing import Tuple, Callable
 import pytest
 from _pytest.fixtures import SubRequest
-from ccbot.crypto.coins import Coin, CryptoCoin
-from ccbot.crypto.rates import CoinStock, CoinMarketCup
+from bin.crypto.coins import Coin, CryptoCoin
+from bin.crypto.rates import CoinStock, CoinMarketCup
 
 _coins: Tuple[str, ...] = ('bitcoin', 'litecoin', 'zcash', 'ethereum', 'ripple')
 

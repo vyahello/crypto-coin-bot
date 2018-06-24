@@ -9,7 +9,7 @@ Run script from the root directory of the project:
 ```
 
 ## Demo
-![Screenshot](ccbot/demo/coinbot.png)
+![Screenshot](bin/demo/coinbot.png)
 
 ## Contributing
 
