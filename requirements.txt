@@ -1,5 +1,4 @@
 werkzeug
 requests
-pytest
 flask
 flask_sslify
