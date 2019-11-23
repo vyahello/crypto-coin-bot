@@ -3,6 +3,8 @@
 >
 > Bot is called `FoxCoinBot` that served by [pythonanywhere.com](https://pythonanywhere.com) hosting, search for it in the telegram to allow it help you to get your desired coin. Enjoy it!
 
+[![Build Status](https://travis-ci.org/vyahello/crypto-coin-bot.svg?branch=master)](https://travis-ci.org/vyahello/crypto-coin-bot)
+
 **Tools**
 > - python3.6 
 > - flask
