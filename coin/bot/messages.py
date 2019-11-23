@@ -1,11 +1,11 @@
 from abc import ABC, abstractmethod
 from typing import Dict, Any, Callable
-from bin.bot import BOT_API_TOKEN
-from bin.crypto.coins import Coin
-from bin.web_api.requests import Request, SafeBotRequest
-from bin.web_api.responses import Response
-from bin.web_api.urls import CommonUrl
-from bin.server import requests
+from coin.bot import BOT_API_TOKEN
+from coin.crypto.coins import Coin
+from coin.web_api.requests import Request, SafeBotRequest
+from coin.web_api.responses import Response
+from coin.web_api.urls import CommonUrl
+from coin.server import requests
 
 
 class Message(ABC):

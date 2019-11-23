@@ -1,4 +1,4 @@
-from bin.crypto.rates import CoinStock
+from coin.crypto.rates import CoinStock
 
 _records: int = 15
 

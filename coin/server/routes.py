@@ -1,9 +1,9 @@
-from bin.bot.messages import Answer, BotAnswer, BotMessage
-from bin.bot.text import Text, InputText
-from bin.crypto.coins import Coin, CryptoCoin
-from bin.server import SERVER, METHODS, Request, ServerRequest, POST, WELCOME_MESSAGE, Server
+from coin.bot.messages import Answer, BotAnswer, BotMessage
+from coin.bot.text import Text, InputText
+from coin.crypto.coins import Coin, CryptoCoin
+from coin.server import coin_app, METHODS, Request, ServerRequest, POST, WELCOME_MESSAGE, Server
 
-_server: Server = SERVER
+_server: Server = coin_app
 
 
 @_server.route('/', methods=METHODS)

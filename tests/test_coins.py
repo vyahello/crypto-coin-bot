@@ -1,6 +1,6 @@
 from typing import Callable
 import pytest
-from bin.crypto.coins import Coin
+from coin.crypto.coins import Coin
 
 
 @pytest.mark.parametrize('coin, coin_id', [

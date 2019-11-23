@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 from typing import Dict
-from bin.web_api.requests import Request, SafeBotRequest
-from bin.web_api.urls import CommonUrl
+from coin.web_api.requests import Request, SafeBotRequest
+from coin.web_api.urls import CommonUrl
 
 
 class CoinStock(ABC):

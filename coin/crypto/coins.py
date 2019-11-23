@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 from typing import Callable
-from bin.crypto.rates import CoinMarketCup
+from coin.crypto.rates import CoinMarketCup
 
 
 class Coin(ABC):
