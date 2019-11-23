@@ -18,11 +18,17 @@ Run script from the root directory of the project:
 ## Demo
 ![Screenshot](demo/coinbot.png)
 
-## Developments notes
 
-### Run tests
+## Run tests
 Run `pytest` from shell in the root directory of the repository to run `unittests`. 
 It uses [pytest.ini](pytest.ini) config file as a setup.
+
+## Developments notes
+
+## Release notes
+
+* 0.1.0
+    * First distribution of an app
 
 ### Meta
 Author – Volodymyr Yahello vyahello@gmail.com
