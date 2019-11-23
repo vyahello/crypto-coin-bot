@@ -28,6 +28,8 @@ Please open `test-report.html` file to obtain testing report.
 
 ## Release notes
 
+* 0.2.0
+    * Implement travis CI
 * 0.1.0
     * First distribution of an app
 
