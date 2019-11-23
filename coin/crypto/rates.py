@@ -16,7 +16,7 @@ class CoinMarketCup(CoinStock):
     """Coin market cup crypto currency stock."""
 
     def __init__(self, coin: str) -> None:
-        self._req: Request = SafeBotRequest(CommonUrl('https://api.coinmarketcap.com/v1/ticker/', coin))
+        self._req: Request = SafeBotRequest(CommonUrl("https://api.coinmarketcap.com/v1/ticker/", coin))
 
     def coin_records(self) -> Dict[str, str]:
         return self._req.get().json()[0]

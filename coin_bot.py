@@ -6,5 +6,5 @@ def _run_coin_bot() -> None:
     coin_app.run(host="0.0.0.0", port=9999)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     _run_coin_bot()

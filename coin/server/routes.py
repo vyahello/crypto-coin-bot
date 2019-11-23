@@ -6,7 +6,7 @@ from coin.server import coin_app, METHODS, Request, ServerRequest, POST, WELCOME
 _server: Server = coin_app
 
 
-@_server.route('/', methods=METHODS)
+@_server.route("/", methods=METHODS)
 def index():
     request: Request = ServerRequest()
     answer: Answer = BotAnswer(request)
