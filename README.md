@@ -6,10 +6,10 @@
 [![Build Status](https://travis-ci.org/vyahello/crypto-coin-bot.svg?branch=master)](https://travis-ci.org/vyahello/crypto-coin-bot)
 
 **Tools**
-> - python3.6 
-> - flask
-> - pytest
-> - pythonanywhere hosting
+> - `python3.6.5`
+> - `flask`
+> - `pytest`
+> - `pythonanywhere` hosting
 
 ## Usage
 Run script from the root directory of the project:
@@ -28,7 +28,7 @@ Please open `test-report.html` file to obtain testing report.
 
 ## Developments notes
 
-## Release notes
+### Release notes
 
 * 0.2.0
     * Implement travis CI
@@ -38,7 +38,7 @@ Please open `test-report.html` file to obtain testing report.
 ### Meta
 Author – Volodymyr Yahello vyahello@gmail.com
 
-Distributed under the `MIT` license. See [LICENSE](LICENSE.md) for more information.
+Distributed under the `Apache` license. See [LICENSE](LICENSE.md) for more information.
 
 You can reach out me at:
 * [https://github.com/vyahello](https://github.com/vyahello)
