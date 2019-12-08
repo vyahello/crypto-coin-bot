@@ -18,15 +18,16 @@ Run script from the root directory of the project:
 ```
 
 ## Demo
+
 ![Screenshot](demo/coinbot.png)
 
-## Run tests
+## Developments notes
+
+### Run tests
 Run `pytest` from shell in the root directory of the repository to run `unittests`. 
 It uses [pytest.ini](pytest.ini) config file as a setup.
 
 Please open `test-report.html` file to obtain testing report.
-
-## Developments notes
 
 ### Release notes
 
@@ -48,6 +49,5 @@ You can reach out me at:
 
 1. clone the repository
 2. configure Git for the first time after cloning with your `name` and `email`
-3. `python3.6` is required to run the code
-4. run `pip install -r requirements.txt` to install all required python packages
-5. run `pip install -r requirements-dev.txt` to install all required python packages
+3. run `pip install -r requirements.txt` to install all required python packages
+4. run `pip install -r requirements-dev.txt` to install all required python packages
