@@ -5,6 +5,9 @@
 
 [![Build Status](https://travis-ci.org/vyahello/crypto-coin-bot.svg?branch=master)](https://travis-ci.org/vyahello/crypto-coin-bot)
 
+[![EO principles respected here](https://www.elegantobjects.org/badge.svg)](https://www.elegantobjects.org)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.md)
+
 **Tools**
 > - `python3.6.5`
 > - `flask`
