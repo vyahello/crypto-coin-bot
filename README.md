@@ -7,6 +7,7 @@
 
 [![EO principles respected here](https://www.elegantobjects.org/badge.svg)](https://www.elegantobjects.org)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.md)
+[![Hits-of-Code](https://hitsofcode.com/github/vyahello/crypto-coin-bot)](https://hitsofcode.com/view/github/vyahello/crypto-coin-bot)
 
 **Tools**
 > - `python3.6.5`
