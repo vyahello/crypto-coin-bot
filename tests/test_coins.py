@@ -1,7 +1,6 @@
 from typing import Callable
 import pytest
 from coin.crypto.coins import Coin
-import pdb
 
 
 @pytest.mark.parametrize(
@@ -15,7 +14,6 @@ import pdb
     ],
 )
 def test_coin_id(crypto_coin: Callable[[str], Coin], coin: str, coin_id: str) -> None:
-    pdb.set_trace()
     assert crypto_coin(coin).id() == coin_id
 
 
