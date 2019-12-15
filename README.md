@@ -1,13 +1,14 @@
-# Crypto currency telegram bot
->Basic telegram bot powered by a webhook that helps you get latest USD exchange rates for all types of crypto currencies.
->
-> Bot is called `FoxCoinBot` that served by [pythonanywhere.com](https://pythonanywhere.com) hosting, search for it in the telegram to allow it help you to get your desired coin. Enjoy it!
-
 [![Build Status](https://travis-ci.org/vyahello/crypto-coin-bot.svg?branch=master)](https://travis-ci.org/vyahello/crypto-coin-bot)
+[![Forks](https://img.shields.io/github/forks/vyahello/crypto-coin-bot)](https://github.com/vyahello/crypto-coin-bot/network/members)
 
 [![EO principles respected here](https://www.elegantobjects.org/badge.svg)](https://www.elegantobjects.org)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.md)
 [![Hits-of-Code](https://hitsofcode.com/github/vyahello/crypto-coin-bot)](https://hitsofcode.com/view/github/vyahello/crypto-coin-bot)
+
+# Crypto currency telegram bot
+>Basic telegram bot powered by a webhook that helps you get latest USD exchange rates for all types of crypto currencies.
+>
+> Bot is called `FoxCoinBot` that served by [pythonanywhere.com](https://pythonanywhere.com) hosting, search for it in the telegram to allow it help you to get your desired coin. Enjoy it!
 
 **Tools**
 > - `python3.6.5`
